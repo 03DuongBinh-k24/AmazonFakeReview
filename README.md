@@ -2,7 +2,7 @@
 
 ## Run locally
 
-Use Python 3.13 to match the saved LightGBM model environment. From the project root:
+Use Python 3.11 to match the saved LightGBM model environment. From the project root:
 
 ```powershell
 python -m pip install -r Streamlit_App/requirements.txt
@@ -15,7 +15,7 @@ At startup, the app downloads the NLTK corpora used by the project and checks th
 
 ## Deploy on Streamlit Community Cloud
 
-This folder is self-contained for deployment. Publish only the contents of `Streamlit_App` to a dedicated GitHub repository; do not publish the project-level `data`, `Notebooks`, or `Report_Docs` folders with the app. In Community Cloud, select `app.py` as the entry point and choose Python 3.13. Keep this folder's `requirements.txt` at the repository root. The `models` directory must contain the verified LightGBM bundle and `chapter3_transformers.py` must remain beside the app so the serialized pipeline can load its custom classes.
+This folder is self-contained for deployment. Publish only the contents of `Streamlit_App` to a dedicated GitHub repository; do not publish the project-level `data`, `Notebooks`, or `Report_Docs` folders with the app. In Community Cloud, select `app.py` as the entry point and choose Python 3.11. Keep this folder's `requirements.txt` at the repository root. The `models` directory must contain the verified LightGBM bundle and `chapter3_transformers.py` must remain beside the app so the serialized pipeline can load its custom classes.
 
 Community Cloud may hibernate an app after inactivity. This deployment is for demonstration and does not provide an always-on availability guarantee.
 
