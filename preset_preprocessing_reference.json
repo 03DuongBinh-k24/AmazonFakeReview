@@ -1,0 +1,86 @@
+[
+  {
+    "review_id": 21767,
+    "text_clean": "although i am not completely convinced these work we are on our third bottle we have noticed that the dead spots are decreasing but we still have them occuring we just moved to a new home so i look forward to seeing if there is any difference",
+    "text_lemmatized": "although not completely convinced work third bottle noticed dead spot decrease still occur move new home look forward see difference",
+    "stylometry": {
+      "char_count": 246.0,
+      "word_count": 47.0,
+      "mean_word_len": 4.170212765957447,
+      "ttr": 0.851063648709862,
+      "rttr": 5.834591149289899,
+      "sentence_count": 3.0,
+      "mean_sentence_len": 15.666666666666666,
+      "std_sentence_len": 1.699673171197595,
+      "punct_count": 4.0,
+      "punct_density": 0.016260161940643822,
+      "exclamation_count": 0.0,
+      "question_count": 0.0,
+      "caps_ratio": 0.02032520242580478,
+      "stopword_ratio": 0.5957445540969033
+    }
+  },
+  {
+    "review_id": 8426,
+    "text_clean": "works as well as i would hoped the only problem is that it is not really a stereo",
+    "text_lemmatized": "work well would hop problem not really stereo",
+    "stylometry": {
+      "char_count": 78.0,
+      "word_count": 16.0,
+      "mean_word_len": 3.2777777777777777,
+      "ttr": 0.9444439197533779,
+      "rttr": 4.006928982301586,
+      "sentence_count": 2.0,
+      "mean_sentence_len": 8.0,
+      "std_sentence_len": 2.0,
+      "punct_count": 4.0,
+      "punct_density": 0.05128204470743016,
+      "exclamation_count": 0.0,
+      "question_count": 0.0,
+      "caps_ratio": 0.03846153353057262,
+      "stopword_ratio": 0.6666662962965021
+    }
+  },
+  {
+    "review_id": 65,
+    "text_clean": "like this little guy use it often he is small",
+    "text_lemmatized": "like little guy use often small",
+    "stylometry": {
+      "char_count": 48.0,
+      "word_count": 10.0,
+      "mean_word_len": 3.6,
+      "ttr": 0.9999990000010001,
+      "rttr": 3.1622676602000017,
+      "sentence_count": 3.0,
+      "mean_sentence_len": 3.3333333333333335,
+      "std_sentence_len": 0.4714045207910317,
+      "punct_count": 3.0,
+      "punct_density": 0.06249998697916938,
+      "exclamation_count": 0.0,
+      "question_count": 0.0,
+      "caps_ratio": 0.06249998697916938,
+      "stopword_ratio": 0.3999996000004
+    }
+  },
+  {
+    "review_id": 12844,
+    "text_clean": "great for grown ups kids and a whole bunch of fun for adults greatthis movie was one of the worst movie",
+    "text_lemmatized": "great grown ups kid whole bunch fun adult greatthis movie one bad movie",
+    "stylometry": {
+      "char_count": 103.0,
+      "word_count": 20.0,
+      "mean_word_len": 3.9523809523809526,
+      "ttr": 0.8571424489797862,
+      "rttr": 3.927913452837996,
+      "sentence_count": 2.0,
+      "mean_sentence_len": 10.5,
+      "std_sentence_len": 2.5,
+      "punct_count": 1.0,
+      "punct_density": 0.009708736921481852,
+      "exclamation_count": 0.0,
+      "question_count": 0.0,
+      "caps_ratio": 0.019417473842963703,
+      "stopword_ratio": 0.38095219954657167
+    }
+  }
+]

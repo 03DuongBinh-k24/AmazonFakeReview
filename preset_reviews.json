@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Kịch bản 1 — OR điển hình (TN)",
+    "source_review_id": 21767,
+    "category": "Pet_Supplies_5",
+    "rating": 3.0,
+    "text": "Although I am not completely convinced these work, we are on our third bottle. We have noticed that the dead spots are decreasing but we still have them occuring. We just moved to a new home so I look forward to seeing if there is any difference."
+  },
+  {
+    "name": "Kịch bản 2 — CG điển hình (TP)",
+    "source_review_id": 8426,
+    "category": "Electronics_5",
+    "rating": 4.0,
+    "text": "Works as well as I'd hoped. The only problem is that it's not really a stereo,"
+  },
+  {
+    "name": "Kịch bản 3 — Văn bản 10 từ, cảnh báo độ dài",
+    "source_review_id": 65,
+    "category": "Home_and_Kitchen_5",
+    "rating": 5.0,
+    "text": "Like this little guy. Use it often. He is small."
+  },
+  {
+    "name": "Kịch bản 4 — Cận biên vùng bất định",
+    "source_review_id": 12844,
+    "category": "Movies_and_TV_5",
+    "rating": 5.0,
+    "text": "Great for grown ups kids and a whole bunch of fun for adults.greatThis movie was one of the worst movie"
+  }
+]
